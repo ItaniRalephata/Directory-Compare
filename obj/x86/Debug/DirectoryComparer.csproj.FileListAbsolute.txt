@@ -1,0 +1,12 @@
+C:\Users\ItaniR\Documents\DirectoryComparer\DirectoryComparer\bin\Debug\Directory Comparer.exe
+C:\Users\ItaniR\Documents\DirectoryComparer\DirectoryComparer\bin\Debug\Directory Comparer.pdb
+C:\Users\ItaniR\Documents\DirectoryComparer\DirectoryComparer\obj\x86\Debug\DirectoryComparer.DirectoryComparerIcons.resources
+C:\Users\ItaniR\Documents\DirectoryComparer\DirectoryComparer\obj\x86\Debug\DirectoryComparer.frmCompareResults.resources
+C:\Users\ItaniR\Documents\DirectoryComparer\DirectoryComparer\obj\x86\Debug\DirectoryComparer.frmMain.resources
+C:\Users\ItaniR\Documents\DirectoryComparer\DirectoryComparer\obj\x86\Debug\DirectoryComparer.frmPreferences.resources
+C:\Users\ItaniR\Documents\DirectoryComparer\DirectoryComparer\obj\x86\Debug\DirectoryComparer.Properties.Resources.resources
+C:\Users\ItaniR\Documents\DirectoryComparer\DirectoryComparer\obj\x86\Debug\DirectoryComparer.csproj.GenerateResource.cache
+C:\Users\ItaniR\Documents\DirectoryComparer\DirectoryComparer\obj\x86\Debug\DirectoryComparer.csproj.CoreCompileInputs.cache
+C:\Users\ItaniR\Documents\DirectoryComparer\DirectoryComparer\obj\x86\Debug\Directory Comparer.exe
+C:\Users\ItaniR\Documents\DirectoryComparer\DirectoryComparer\obj\x86\Debug\Directory Comparer.pdb
+C:\Users\ItaniR\Documents\DirectoryComparer\DirectoryComparer\obj\x86\Debug\DirectoryComparer.csprojAssemblyReference.cache
